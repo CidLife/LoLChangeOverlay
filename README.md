@@ -10,7 +10,7 @@ Windows puede mostrar un aviso porque el instalador no tiene firma digital: puls
 Windows 10 u 11 (64 bits), OBS Studio y League of Legends.
 
 ## Guía
-[Guía de instalación y uso](PEGA-AQUÍ-EL-ENLACE-DE-LA-GUÍA)
+https://github.com/CidLife/LoLChangeOverlay/blob/main/LoLChangeOverlay%20%E2%80%93%20Gu%C3%ADa%20de%20instalaci%C3%B3n%20y%20uso.pdf
 
 ## Licencia
 Uso gratuito. No se permite vender el programa ni quitar los créditos. Consulta `LICENCIA.txt`.
