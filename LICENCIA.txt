@@ -1,0 +1,25 @@
+LoLChangeOverlay  -  (c) 2026 CidLife. Hecho por y para la comunidad.
+
+PLANTILLA DE LICENCIA (no es asesoría legal; consulta a un abogado antes de publicarla).
+
+Se te permite, de forma gratuita:
+  - Usar LoLChangeOverlay en tus propias transmisiones.
+  - Compartir el programa sin modificarlo, SIEMPRE conservando este archivo y los créditos a CidLife.
+
+NO se permite:
+  - Vender, cobrar acceso o poner el programa detrás de un pago (Patreon, membresías, etc.).
+  - Quitar o ocultar los créditos de CidLife ni presentar el programa como propio.
+  - Redistribuir versiones modificadas sin permiso por escrito de CidLife.
+
+EL PROGRAMA SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO.
+
+AVISO DE RIOT GAMES (obligatorio al compartir):
+LoLChangeOverlay fue creado bajo la política "Legal Jibber Jabber" de Riot Games usando activos
+propiedad de Riot Games. Riot Games no respalda ni patrocina este proyecto.
+(League of Legends y todos los personajes, nombres e imágenes son propiedad de Riot Games, Inc.
+Este programa NO incluye splash arts: cada usuario agrega los suyos.)
+
+AVISO ADICIONAL (política de desarrolladores de Riot):
+LoLChangeOverlay is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games
+or anyone officially involved in producing or managing Riot Games properties. Riot Games and all associated
+properties are trademarks or registered trademarks of Riot Games, Inc.
